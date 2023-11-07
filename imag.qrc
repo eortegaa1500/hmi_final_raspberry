@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>continuar.png</file>
+    <file>incorrecto.png</file>
+    <file>agregarbasura.png</file>
+    <file>aplauso.png</file>
+    <file>ingresobotella.png</file>
+    <file>botella2.png</file>
+    <file>botelleno.png</file>
+    <file>correcto.png</file>
+    <file>duda.png</file>
+    <file>engrane.png</file>
+    <file>estadis.png</file>
+    <file>estadisticas.png</file>
+    <file>indicaciones.png</file>
+    <file>informacion.png</file>
+    <file>mundofeliz.png</file>
+    <file>PET.png</file>
+    <file>petinfo.png</file>
+    <file>procesopet.png</file>
+    <file>reciclajebotella.png</file>
+    <file>regresar.png</file>
+    <file>salir.png</file>
+  </qresource>
+</RCC>
